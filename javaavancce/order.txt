@@ -1,0 +1,13 @@
+
+*************** Resumé de la commande 1***************
+
+SALADE
+POULET
+EAU GAZEUSE
+MOUSSE AU CHOCOLAT
+
+*************** Resumé de la commande 2***************
+
+LEGUMES
+EAU GAZEUSE
+MOUSSE AU CHOCOLAT
